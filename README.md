@@ -1,7 +1,7 @@
 <h1 align="center">ሰላም 👋, We're PiSpace</h1>
 <h3 align="center">Make complex things simple</h3>
 
-- 🔭 We’re currently working on **AI, Edtech and eCommerce**
+- 🔭 We’re currently working on **AI, Edtech, Fintech and eCommerce**
 
 - 📫 How to reach us **info[at]pispace[dot]co**
 
